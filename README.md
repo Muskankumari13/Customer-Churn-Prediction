@@ -55,3 +55,9 @@ and service usage patterns
 ---
 
 ## Project Structure
+
+Customer-Churn-Prediction/
+│
+├── Customer_Churn_Prediction.ipynb   # Main notebook
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset
+└── README.md
